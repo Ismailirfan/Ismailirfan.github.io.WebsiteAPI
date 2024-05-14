@@ -1,0 +1,19 @@
+.input-container {
+  display: flex;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.input-container label {
+  margin-right: 10px;
+}
+
+#dataDisplay, #errorDisplay {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#errorDisplay {
+  color: red;
+}
